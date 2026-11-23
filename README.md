@@ -22,8 +22,9 @@ The post's text is in `POST-DRAFT.txt`, and its address is in `POST.json`:
 > Make your own bounty on @makefunai: https://make.fun/sponsor/new
 > makefun-compost-lynx-cypress
 
-`photo.png` is the post's own photo: a screenshot of make.fun's page for
-making a bounty, https://make.fun/sponsor/new.
+`photo.png` is the post's own photo: a graphic made for this entry with
+make.fun's press-pack lockup, pointing at the page for making a bounty,
+https://make.fun/sponsor/new.
 
 ## How it scores
 
